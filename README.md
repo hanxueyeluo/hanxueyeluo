@@ -20,7 +20,7 @@
 
 ---
 
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+### :bar_chart: [Coding time in the last month](https://https://github.com/hanxueyeluo)
 
 <!--START_SECTION:waka-->
 
